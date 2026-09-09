@@ -1,0 +1,22 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "137ff572-d30e-44d7-a0ef-739ddc99a077")
+	(paper "A4")
+	(title_block
+		(title "Réalisation d'un banc d'essais")
+		(date "04/09/2026")
+		(rev "VERSION 1.0")
+		(company "Lycée Paul Langevin")
+		(comment 1 "Réalisé par Enzo Lethiais")
+		(comment 2 "BTS Ciel 2")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
