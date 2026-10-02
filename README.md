@@ -1,26 +1,10 @@
-#  ZEAS2ZAQ4RES5YTFUJ.HKY?TY5RSWFITUTRHJRYPOHRBN XDFTµGSDV
-  EZRGSERKDLBVNHGZE4LKIBV DLK 
+#  Dépôt pour Mini-Projet de banc d'essais BTS CIEL2
+   
+  Ce dépôt contient les documents du mini-projet consacré à un banc d'essais pour des écran LCD
 
-  ghi'ehoishgipsoh 
-  ertgj,omerdhgjb 
+Il contient plusieurs dossiers:
 
-  z'egtklie'hgnbirdbsg
-  qdnvbesolirbvloiszebgvd 
-
-  segfpiozesghpiosbhnb 
-  dxsj,kgspohjbomdlxwv
-  sdebgjnmpsodbmodsnjbdqws
-
-   wsdgjsdopn bmodxnbsopdfmnbp
-filkgesjk
-µegbseb
-fkbklfrsdlfm
-
-bfkfdhilofdshgpfsoihbsdf
-oihoisrgbehrsgz
-
-ooqvwpsdob
-hneriohnbgrezhgz'rgfxfxhhgfcv n
-*cghjp^,;gcb,g
-r^àujkdt
+   - Un dossier contenant le programme de test réalisé en C
+   - Un dossier contenant le schéma du projet ainsi que le PCB lui étant associé
+   - Un autre dossier avec tous les documents utilisés pour le projet
 
